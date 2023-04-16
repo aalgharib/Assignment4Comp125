@@ -1,0 +1,9 @@
+{
+    "src": "./images/photo01.jpg",
+    "alt": "lake",
+    "title": "Lake",
+    "price": "9.99",
+    "description": "Take a tour of the beautiful lake",
+    "actionLabel": "Click me",
+    "actionURL": "./details_1.json"
+ }

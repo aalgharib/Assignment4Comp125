@@ -1,0 +1,71 @@
+[
+   {
+      "src": "./images/photo01.jpg",
+      "alt": "lake",
+      "title": "Lake",
+      "price": "9.99",
+      "description": "Take a tour of the beautiful lake",
+      "actionLabel": "Click me",
+      "actionURL": "./details_1.json"
+   },
+   {
+      "src": "./images/photo02.jpg",
+      "alt": "animals",
+      "title": "Animals",
+      "price": "100.00",
+      "description": "Enjoy a tour in the wild"
+   },
+   {
+      "src": "./images/photo03.jpg",
+      "alt": "rocks",
+      "title": "Rocks",
+      "price": "22.11",
+      "description": "Beautiful rocks are awaiting for you"
+   },
+   {
+      "src": "./images/photo04.jpg",
+      "alt": "flowers",
+      "title": "Flowers",
+      "price": "90.99",
+      "description": "Atour in the fields with wild flowers",
+      "actionLabel": "Click me",
+      "actionURL": "./details_37.json"
+   },
+   {
+      "src": "./images/photo05.jpg",
+      "alt": "rainbow",
+      "title": "Rainbow",
+      "price": "80.00",
+      "description": "A morning adventure"
+   },
+   {
+      "src": "./images/photo07.jpg",
+      "alt": "fields",
+      "title": "Fields",
+      "price": "22.11",
+      "description": "In the green fields"
+   },
+   {
+      "src": "./images/photo06.jpg",
+      "alt": "moose",
+      "title": "Moose",
+      "price": "9.99",
+      "description": "Walking adventure",
+      "actionLabel": "Click me",
+      "actionURL": "./details_55.json"
+   },
+   {
+      "src": "./images/photo08.jpg",
+      "alt": "winter lake",
+      "title": "Winter lake",
+      "price": "10.00",
+      "description": "Winter lake"
+   },
+   {
+      "src": "./images/photo09.jpg",
+      "alt": "walking",
+      "title": "Walking",
+      "price": "33.33",
+      "description": "A walk in the mountains"
+   }
+]

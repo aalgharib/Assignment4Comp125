@@ -1,0 +1,9 @@
+{
+    "src": "./images/photo04.jpg",
+    "alt": "flowers",
+    "title": "Flowers",
+    "price": "90.99",
+    "description": "Atour in the fields with wild flowers",
+    "actionLabel": "Click me",
+    "actionURL": "./details_37.json"
+ }

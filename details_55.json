@@ -1,0 +1,9 @@
+{
+    "src": "./images/photo06.jpg",
+    "alt": "moose",
+    "title": "Moose",
+    "price": "9.99",
+    "description": "Walking adventure",
+    "actionLabel": "Click me",
+    "actionURL": "./details_55.json"
+}
